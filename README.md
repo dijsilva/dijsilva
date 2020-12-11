@@ -7,3 +7,10 @@
 
 # Hi there!
 
+I am a computer science student at the Federal Institute of Brasilia. I love technology and study subjects related to web development, data science and a little bioinformatics.
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijsilva&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+<br/>
