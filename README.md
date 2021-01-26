@@ -7,7 +7,7 @@
 
 # Hi there!
 
-I am a computer science student at the Federal Institute of Brasilia. I love technology and study subjects related to web development, data science and a little bioinformatics.
+I am a computer science student at the Federal Institute of Brasilia. I love technology and study subjects related to web development amd data science.
 
 <details>
   <summary>:zap: Languages Used</summary>
