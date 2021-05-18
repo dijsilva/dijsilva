@@ -7,7 +7,7 @@
 
 # Hi there!
 
-I am a computer science student at the Federal Institute of Brasilia. I love technology and study subjects related to web development and data science.
+I'm a systems analyst at Stefanini IT and a student in the Systems for Internet course at the Federal Institute of Brasilia. I like technology and how it makes my life and everyone else's easier. Most of the time, i'm studying subjects about web development and data science.
 
 <details>
   <summary>:zap: Languages Used</summary>
